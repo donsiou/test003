@@ -9,3 +9,6 @@ class Client:
 	
 	def test(self):
 		print "hello world!"
+
+	def test2(self):
+		print "hello world!"		
